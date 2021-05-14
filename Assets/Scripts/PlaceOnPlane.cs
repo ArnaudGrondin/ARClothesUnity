@@ -15,7 +15,7 @@ public class PlaceOnPlane : MonoBehaviour
     private GameObject ObjectSpawned;
 
     public GameObject positionIndicator;
-    public GameObject prefabToPlace;
+    public GameObject[] prefabToPlace; // the prefab passed througth the component
     public Camera ARCamera;
     
     private void Awake(){
@@ -23,23 +23,24 @@ public class PlaceOnPlane : MonoBehaviour
     }
 
     void Update(){
-        if(!isObjectPlaced){
+       // if(!isObjectPlaced){
             UpdatePlacementPose(); //for position indicator
-            if(placemenPoseIsValid && Input.touchCount> 0){
+            if(placemenPoseIsValid && Input.touchCount> 0 ){// Ti
                 placeObject();
             }
-        }
+        //}
         
     }
     private void UpdatePlacementPose(){
-        var screenCenter = ARCamera.ViewportToScreenPoint(new Vector3(0.5f, 0.5f) ); // the ARCamera give the center of the screen
+        var screenCenter = ARCamera.ViewportToScreenPoint(new Vector3(0.5f, 0.5f)); // the ARCamera give the center of the screen
         var hits = new List<ARRaycastHit>();
 
         raycastManager.Raycast(screenCenter, hits, TrackableType.All);
 
         placemenPoseIsValid = hits.Count >0;
 
-        if (placemenPoseIsValid ){
+        if (placemenPoseIsValid){
+            placemenPose = hits[0].pose;// for some reason prevent the indicator to appear and spawn the body through the plane
             var cameraForward = ARCamera.transform.forward;
             var cameraBearing = new Vector3(cameraForward.x, 0, cameraForward.z).normalized;
 
@@ -54,10 +55,10 @@ public class PlaceOnPlane : MonoBehaviour
     }
 
     private void placeObject(){
-        if( !isObjectSpawned){
-           ObjectSpawned = Instantiate(prefabToPlace, placemenPose.position, placemenPose.rotation);
-        isObjectPlaced = true;
-        positionIndicator.SetActive(false);
+        if(isObjectSpawned == false){
+           ObjectSpawned = Instantiate(prefabToPlace[1], placemenPose.position, placemenPose.rotation);
+        //isObjectPlaced = true;
+        //positionIndicator.SetActive(false);
         isObjectSpawned = true;
         }else{
             // TODO
@@ -79,7 +80,9 @@ public class PlaceOnPlane : MonoBehaviour
     }
     
         
-    
+    public void changeBody(){
+            ObjectSpawned= null;
+    }
     
 
 }
