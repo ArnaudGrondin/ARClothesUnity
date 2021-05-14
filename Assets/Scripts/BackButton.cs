@@ -35,7 +35,7 @@ namespace UnityEngine.XR.ARFoundation.Samples
             {
                 SceneManager.LoadScene("MainMenu", LoadSceneMode.Single);
                 SceneManager.UnloadSceneAsync("ARClothes");
-                LoaderUtility.Deinitialize();
+                //LoaderUtility.Deinitialize();
             }
         }
     }
