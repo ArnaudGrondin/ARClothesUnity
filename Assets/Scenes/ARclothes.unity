@@ -337,8 +337,8 @@ MonoBehaviour:
   positionIndicator: {fileID: 312330964950396679, guid: d8d79ee319b60bf40a6cdf4697895c3d,
     type: 3}
   prefabToPlace:
-  - {fileID: 6863728727994606439, guid: 0a33d29d7bc30e64b8e4301e92be4a5e, type: 3}
   - {fileID: 6701634513284085150, guid: 40950cd844565a244ae487d44453cad3, type: 3}
+  - {fileID: 6863728727994606439, guid: 0a33d29d7bc30e64b8e4301e92be4a5e, type: 3}
   ARCamera: {fileID: 974615077}
 --- !u!114 &394274108
 MonoBehaviour:

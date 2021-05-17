@@ -17,25 +17,38 @@ public class PlaceOnPlane : MonoBehaviour
     public GameObject positionIndicator;
     public GameObject[] prefabToPlace; // the prefab passed througth the component
     public Camera ARCamera;
+
+    
+    static List<ARRaycastHit> hits = new List<ARRaycastHit>();
     
     private void Awake(){
         raycastManager = GetComponent<ARRaycastManager>();
     }
 
     void Update(){
-       // if(!isObjectPlaced){
-            UpdatePlacementPose(); //for position indicator
-            if(placemenPoseIsValid && Input.touchCount> 0 ){// Ti
-                placeObject();
-            }
-        //}
+      
+        placeObject();
+            
+      
         
     }
-    private void UpdatePlacementPose(){
-        var screenCenter = ARCamera.ViewportToScreenPoint(new Vector3(0.5f, 0.5f)); // the ARCamera give the center of the screen
-        var hits = new List<ARRaycastHit>();
+    bool TryGetTouchPosition(out Vector2 touchPosition)
+    {
+        if (Input.touchCount > 0)
+        {
+            touchPosition = Input.GetTouch(0).position;
+            return true;
+        }
 
-        raycastManager.Raycast(screenCenter, hits, TrackableType.All);
+        touchPosition = default;
+        return false;
+    }
+    /*
+    private void UpdatePlacementPose(){
+        //var screenCenter = ARCamera.ViewportToScreenPoint(new Vector3(0.5f, 0.5f)); // the ARCamera give the center of the screen
+       
+
+        raycastManager.Raycast(touchPosition, hits, TrackableType.All);
 
         placemenPoseIsValid = hits.Count >0;
 
@@ -53,20 +66,33 @@ public class PlaceOnPlane : MonoBehaviour
         }
     
     }
-
+*/
     private void placeObject(){
-        if(isObjectSpawned == false){
-           ObjectSpawned = Instantiate(prefabToPlace[1], placemenPose.position, placemenPose.rotation);
-        //isObjectPlaced = true;
-        //positionIndicator.SetActive(false);
-        isObjectSpawned = true;
-        }else{
-            // TODO
-            ObjectSpawned.transform.position = placemenPose.position;
-            ObjectSpawned.transform.rotation = placemenPose.rotation;
+
+                if (!TryGetTouchPosition(out Vector2 touchPosition))
+            return;
+
+        if (raycastManager.Raycast(touchPosition, hits, TrackableType.All))
+        {
+            var cameraForward = ARCamera.transform.forward;
+            var cameraBearing = new Vector3(cameraForward.x, 0, cameraForward.z).normalized;
 
             
-        }
+            // Raycast hits are sorted by distance, so the first one
+            // will be the closest hit.
+            var hitPose = hits[0].pose;
+
+            if(ObjectSpawned == null){// if our game doest set in AR 
+                    //we instatiate it ,
+             ObjectSpawned = Instantiate(prefabToPlace[0],hitPose.position,Quaternion.LookRotation(cameraBearing));
+            }else{ // we move object to another position selecter by user
+                //ObjectSpawned.transform.position = hitPose.position;
+                //ObjectSpawned.transform.rotation = Quaternion.LookRotation(cameraBearing);
+            }}
+
+
+
+      
         
 
     }
