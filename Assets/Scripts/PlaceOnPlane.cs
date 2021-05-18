@@ -13,9 +13,12 @@ public class PlaceOnPlane : MonoBehaviour
 
     private bool isObjectSpawned = false;
     private GameObject ObjectSpawned;
+    
 
     public GameObject positionIndicator;
     public GameObject[] prefabToPlace; // the prefab passed througth the component
+
+     public GameObject PrefabSelected;
     public Camera ARCamera;
 
     
@@ -23,6 +26,7 @@ public class PlaceOnPlane : MonoBehaviour
     
     private void Awake(){
         raycastManager = GetComponent<ARRaycastManager>();
+        PrefabSelected = prefabToPlace[0];
     }
 
     void Update(){
@@ -84,7 +88,7 @@ public class PlaceOnPlane : MonoBehaviour
 
             if(ObjectSpawned == null){// if our game doest set in AR 
                     //we instatiate it ,
-             ObjectSpawned = Instantiate(prefabToPlace[0],hitPose.position,Quaternion.LookRotation(cameraBearing));
+             ObjectSpawned = Instantiate(PrefabSelected,hitPose.position,Quaternion.LookRotation(cameraBearing));
             }else{ // we move object to another position selecter by user
                 //ObjectSpawned.transform.position = hitPose.position;
                 //ObjectSpawned.transform.rotation = Quaternion.LookRotation(cameraBearing);
@@ -105,9 +109,19 @@ public class PlaceOnPlane : MonoBehaviour
         }
     }
     
+    private void setPrefab(GameObject prefabChoosed){
+        PrefabSelected = prefabChoosed;
+    }
         
     public void changeBody(){
+        Destroy(ObjectSpawned);
             ObjectSpawned= null;
+            if(PrefabSelected == prefabToPlace[1]){ // if the man if selected it change to woman and vice-versa
+                setPrefab(prefabToPlace[0]);
+            }else{
+                setPrefab(prefabToPlace[1]);
+            }
+            
     }
     
 
