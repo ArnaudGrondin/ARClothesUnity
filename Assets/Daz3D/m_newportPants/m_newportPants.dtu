@@ -1,0 +1,499 @@
+{
+	"Asset Id" : "NewportPants_6521",
+	"Asset Name" : "m_newportPants",
+	"Asset Type" : "SkeletalMesh",
+	"FBX File" : "D:\\ARClothesUnity\\Assets\\Daz3D\\m_newportPants\\m_newportPants.fbx",
+	"Import Folder" : "D:\\ARClothesUnity\\Assets\\Daz3D\\m_newportPants\\",
+	"Materials" : [
+		{
+			"Version" : 2,
+			"Asset Name" : "Newport_Pants",
+			"Material Name" : "Pants",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "Follower",
+			"Properties" : [
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/grond/Documents/DAZ 3D/Studio/My Daz Connect Library/data/cloud/1_17560/runtime/textures/sarsa/newport/snewportpants01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#fdfdfd",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/grond/Documents/DAZ 3D/Studio/My Daz Connect Library/data/cloud/1_17560/runtime/textures/sarsa/newport/snewportpants01s.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#191919",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/grond/Documents/DAZ 3D/Studio/My Daz Connect Library/data/cloud/1_17560/runtime/textures/sarsa/newport/snewportpants01b.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.09",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.09",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "-0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#747068",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : "0.25",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Newport_Pants",
+			"Material Name" : "Waist",
+			"Material Type" : "DAZ Studio Default",
+			"Value" : "Follower",
+			"Properties" : [
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Users/grond/Documents/DAZ 3D/Studio/My Daz Connect Library/data/cloud/1_17560/runtime/textures/sarsa/newport/snewportpants01.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#fdfdfd",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/grond/Documents/DAZ 3D/Studio/My Daz Connect Library/data/cloud/1_17560/runtime/textures/sarsa/newport/snewportpants01s.jpg"
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#191919",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : "C:/Users/grond/Documents/DAZ 3D/Studio/My Daz Connect Library/data/cloud/1_17560/runtime/textures/sarsa/newport/snewportpants01b.jpg"
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.09",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.09",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "-0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#747068",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Sheen Color",
+					"Value" : "#666666",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scatter Color",
+					"Value" : "#cc260f",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Thickness",
+					"Value" : "0.25",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Lighting Model",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		}
+	],
+	"Morphs" : [
+	],
+	"Subdivisions" : [
+	]
+}

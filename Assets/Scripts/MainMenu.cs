@@ -9,6 +9,10 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene("ARclothes");
         
     }
+
+    public void Start3D(){
+        SceneManager.LoadScene("3DClothes");
+    }
     
     public void QuitApp(){ 
         

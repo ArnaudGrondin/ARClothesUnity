@@ -1,0 +1,7756 @@
+{
+	"Asset Id" : "Genesis3Female",
+	"Asset Name" : "Genesis3Female",
+	"Asset Type" : "SkeletalMesh",
+	"FBX File" : "D:\\ARClothesUnity\\Assets\\Daz3D\\Genesis3Female\\Genesis3Female.fbx",
+	"Import Folder" : "D:\\ARClothesUnity\\Assets\\Daz3D\\Genesis3Female\\",
+	"Materials" : [
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Eyelashes",
+			"Material Type" : "omUberSurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#0c0b09",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_lashes_1006.jpg"
+				},
+				{
+					"Name" : "Bump Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Minimum",
+					"Value" : "-0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Maximum",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Active",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "0.4",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_lashesD_1006.jpg"
+				},
+				{
+					"Name" : "Displacement Minimum",
+					"Value" : "-0.15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Maximum",
+					"Value" : "0.15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Trace Displacements",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#0c0b09",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Active",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Roughness",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Active",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Map Tiling U",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Map Tiling V",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Active",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#463b31",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.25",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Sharpness",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Anisotropic Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Anisotropic Direction",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Roughness",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Sharpness",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Anisotropic2 Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Anisotropic2 Direction",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Mode",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Environment Map (Map in Lat/Long format)",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Blur",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Blur Samples",
+					"Value" : "4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Reflection Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fresnel Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fresnel Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fresnel Falloff",
+					"Value" : "0.4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fresnel Sharpness",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Velvet Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Velvet Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Velvet Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Velvet Falloff",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Refraction",
+					"Value" : "1.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Scale",
+					"Value" : "4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Group",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Shading Rate",
+					"Value" : "32",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fantom",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Raytrace",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Occlusion",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Occlusion Shading Rate Mode",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Occlusion Shading Rate",
+					"Value" : "128",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineDepth",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Fingernails",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_armsB_1004.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0.02",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#d1dfed",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_armsS_1004.jpg"
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#effffa",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_armsS_1004.jpg"
+				},
+				{
+					"Name" : "value222",
+					"Value" : "0.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0.6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#c9ccdf",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_arms_1004.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_arms_1004.jpg"
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "1.09",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "1.59",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "1.79",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.013",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.07",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.145",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "61",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineDepth",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Toenails",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_legsB_1003.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0.02",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#d1dfed",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_legsS_1003.jpg"
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#effffa",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_legsS_1003.jpg"
+				},
+				{
+					"Name" : "value222",
+					"Value" : "0.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0.6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#c9ccdf",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_legs_1003.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_legs_1003.jpg"
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "1.09",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "1.59",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "1.79",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.013",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.07",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.145",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "61",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineDepth",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Cornea",
+			"Material Type" : "omUberSurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Minimum",
+					"Value" : "-0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Maximum",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Minimum",
+					"Value" : "-0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Maximum",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Trace Displacements",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Active",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Roughness",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Active",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Map Tiling U",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Map Tiling V",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Sharpness",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Anisotropic Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Anisotropic Direction",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Roughness",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Sharpness",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Anisotropic2 Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Anisotropic2 Direction",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Mode",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Environment Map (Map in Lat/Long format)",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Blur",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Blur Samples",
+					"Value" : "4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Reflection Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fresnel Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fresnel Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fresnel Falloff",
+					"Value" : "0.4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fresnel Sharpness",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Velvet Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Velvet Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Velvet Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Velvet Falloff",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Refraction",
+					"Value" : "1.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Scale",
+					"Value" : "4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Group",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Shading Rate",
+					"Value" : "32",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fantom",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Raytrace",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Occlusion",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Occlusion Shading Rate Mode",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Occlusion Shading Rate",
+					"Value" : "128",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Pupils",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "-0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_eyesB_1007.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.65",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value222",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0.85",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0.15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_eyes01_1007.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "4.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "3.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.01",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.01",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.01",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "16",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "62",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineDepth",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Face",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "0.55",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_faceB_1001.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0.02",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.25",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#adb9c4",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_faceS_1001.jpg"
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#c4d1cd",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_faceS_1001.jpg"
+				},
+				{
+					"Name" : "value222",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0.6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#eff0f8",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_face_1001.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_face_1001.jpg"
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "1.09",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "1.59",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "1.79",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.013",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.07",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.145",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "61",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineDepth",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Lips",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "0.55",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_faceB_1001.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0.02",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.25",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#adb9c4",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_faceS_1001.jpg"
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#c4d1cd",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_lipsS_1001.jpg"
+				},
+				{
+					"Name" : "value222",
+					"Value" : "0.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0.95",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#eff0f8",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_face_1001.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_face_1001.jpg"
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "1.09",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "1.59",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "1.79",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.013",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.07",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.145",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "61",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineDepth",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Teeth",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "-0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "0.22",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_mouthB_1005.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0.02",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.45",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value222",
+					"Value" : "1.35",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0.995",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "0.25",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_mouth_1005.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "2.19",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "2.62",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.0021",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.0041",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.0071",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "8",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "63",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineDepth",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Sclera",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_eyesB_1007.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0.15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#eefffc",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value222",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0.999",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_eyes01_1007.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_eyes01_1007.jpg"
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0.25",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "2.19",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "2.62",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.0021",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.0041",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.0071",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "16",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "62",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineDepth",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Ears",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "0.55",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_faceB_1001.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0.02",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.25",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#adb9c4",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_faceS_1001.jpg"
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#c4d1cd",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_faceS_1001.jpg"
+				},
+				{
+					"Name" : "value222",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0.6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#eff0f8",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_face_1001.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_face_1001.jpg"
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "1.09",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "1.59",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "1.79",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.013",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.07",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.145",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "61",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineDepth",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Irises",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_eyesB_1007.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.65",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value222",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0.15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_eyes01_1007.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "2.19",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "2.62",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.0021",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.0041",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.0071",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "16",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "62",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineDepth",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Legs",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "0.55",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_legsB_1003.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0.02",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.25",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#adb9c4",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_legsS_1003.jpg"
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#c4d1cd",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_legsS_1003.jpg"
+				},
+				{
+					"Name" : "value222",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0.6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#eff0f8",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_legs_1003.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_legs_1003.jpg"
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "1.09",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "1.59",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "1.79",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.013",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.07",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.145",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "61",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineDepth",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Torso",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "0.55",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_torsoB_1002.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0.02",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.25",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#adb9c4",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_torsoS_1002.jpg"
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#c4d1cd",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_torsoS_1002.jpg"
+				},
+				{
+					"Name" : "value222",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0.6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#eff0f8",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_torso_1002.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_torso_1002.jpg"
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "1.09",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "1.59",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "1.79",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.013",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.07",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.145",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "61",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineColorID",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "OutlineDepth",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "EyeSocket",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "0.45",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_faceB_1001.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0.02",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.25",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#adb9c4",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_faceS_1001.jpg"
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#c4d1cd",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_faceS_1001.jpg"
+				},
+				{
+					"Name" : "value222",
+					"Value" : "0.7",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0.95",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#eff0f8",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_face_1001.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_face_1001.jpg"
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "1.09",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "1.59",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "1.79",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.013",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.07",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.145",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "61",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "EyeMoisture",
+			"Material Type" : "omHumanSurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "0.9",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_eyerefl01_1008.jpg"
+				},
+				{
+					"Name" : "Bump Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Minimum",
+					"Value" : "-0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Maximum",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Minimum",
+					"Value" : "-0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Maximum",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Trace Displacements",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Active",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Roughness",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Active",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Map Tiling U",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Map Tiling V",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Active",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Sharpness",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Active",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Strength",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Roughness",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular2 Sharpness",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Refraction Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Index of Refraction",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Active",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Mode",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Environment Map (Map in Lat/Long format)",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Blur",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Blur Samples",
+					"Value" : "4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Reflection Through Opacity",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fresnel Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fresnel Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fresnel Falloff",
+					"Value" : "0.4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Fresnel Sharpness",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Velvet Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Velvet Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Velvet Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Velvet Falloff",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Refraction",
+					"Value" : "1.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Scale",
+					"Value" : "4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Group",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Subsurface Shading Rate",
+					"Value" : "32",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Active",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Translucency Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Mouth",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "0.25",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_mouthB_1005.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value222",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0.85",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_mouth_1005.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.01",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.01",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.01",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "16",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		},
+		{
+			"Version" : 2,
+			"Asset Name" : "Genesis 3 Female",
+			"Material Name" : "Arms",
+			"Material Type" : "AoA_Subsurface",
+			"Value" : "Actor/Character",
+			"Properties" : [
+				{
+					"Name" : "UV Set",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth On",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Smooth Angle",
+					"Value" : "89.9",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Preview Color",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line Start Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line End Width",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Line UV Width",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Render Priority",
+					"Value" : "3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Propagate Priority",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Follow Blend",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Accept Shadows",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "radius",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "alpha",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Displacement Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Minimum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Maximum Displacement",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Negative Bump",
+					"Value" : "-0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Positive Bump",
+					"Value" : "0.05",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Tiles",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Horizontal Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Vertical Offset",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Bump Strength",
+					"Value" : "0.55",
+					"Data Type" : "Double",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_armsB_1004.jpg"
+				},
+				{
+					"Name" : "Spec_Noise_Scale",
+					"Value" : "20",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "arg_0",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Normal Map",
+					"Value" : "#ffffff",
+					"Data Type" : "Texture",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Multiply Specular Through Opacity",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Spec_Noise",
+					"Value" : "0.02",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Strength",
+					"Value" : "0.25",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Specular Color",
+					"Value" : "#adb9c4",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_armsS_1004.jpg"
+				},
+				{
+					"Name" : "Glossiness",
+					"Value" : "0.4",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color2",
+					"Value" : "#c4d1cd",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_armsS_1004.jpg"
+				},
+				{
+					"Name" : "value222",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength22",
+					"Value" : "0.6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "eta",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samplecone",
+					"Value" : "1.49012e-08",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "maxdist",
+					"Value" : "1e+30",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "samples",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "bias",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color3",
+					"Value" : "#eff0f8",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "strength3",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "falloff",
+					"Value" : "15",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "backscatter",
+					"Value" : "0.1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "roughness",
+					"Value" : "0.2",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Opacity Strength",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Reflection Strength",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value2232",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valShadowColor",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valPrePostSwitch",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "value23",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "val_RayDepthRound",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Diffuse Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_arms_1004.jpg"
+				},
+				{
+					"Name" : "Diffuse Strength",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Color",
+					"Value" : "#ffffff",
+					"Data Type" : "Color",
+					"Texture" : "C:/Daz 3D/Applications/Data/DAZ 3D/My DAZ 3D Library/Runtime/Textures/Raiya/Jeane/RyJeane_arms_1004.jpg"
+				},
+				{
+					"Name" : "if2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength",
+					"Value" : "0.75",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "sssmaterial",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_x",
+					"Value" : "1.09",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_y",
+					"Value" : "1.59",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cScatter_z",
+					"Value" : "1.79",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_x",
+					"Value" : "0.013",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_y",
+					"Value" : "0.07",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "cAbsorb_z",
+					"Value" : "0.145",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "ior",
+					"Value" : "1.3",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Scale",
+					"Value" : "0.5",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "shadingrate",
+					"Value" : "6",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "groupid",
+					"Value" : "61",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "color4",
+					"Value" : "#000000",
+					"Data Type" : "Color",
+					"Texture" : ""
+				},
+				{
+					"Name" : "Ambient Strength2",
+					"Value" : "0",
+					"Data Type" : "Double",
+					"Texture" : ""
+				},
+				{
+					"Name" : "valAmbientContrib",
+					"Value" : "1",
+					"Data Type" : "Double",
+					"Texture" : ""
+				}
+			]
+		}
+	],
+	"Morphs" : [
+	],
+	"Subdivisions" : [
+	]
+}
