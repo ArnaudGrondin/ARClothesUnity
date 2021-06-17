@@ -34,7 +34,8 @@ namespace UnityEngine.XR.ARFoundation.Samples
             if (Application.CanStreamedLevelBeLoaded("MainMenu"))
             {
                 SceneManager.LoadScene("MainMenu", LoadSceneMode.Single);
-                SceneManager.UnloadSceneAsync("ARClothes");
+                SceneManager.UnloadSceneAsync(SceneManager.GetActiveScene());
+               
                 //LoaderUtility.Deinitialize();
             }
         }

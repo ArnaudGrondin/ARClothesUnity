@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ARclothes.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/3DClothes.unity
+    guid: 8a598078dd75e7946a344f05fcff304f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d98866d435907c140961b62bade37de9,
       type: 2}
