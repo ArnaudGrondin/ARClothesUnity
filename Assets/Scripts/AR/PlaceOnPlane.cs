@@ -11,7 +11,7 @@ public class PlaceOnPlane : MonoBehaviour
     private bool placemenPoseIsValid;
     private bool isObjectPlaced ; // if the object is placed we cant move it
 
-    private bool isObjectSpawned = false;
+    //private bool isObjectSpawned = false;
     private GameObject ObjectSpawned;
     
 
@@ -33,8 +33,6 @@ public class PlaceOnPlane : MonoBehaviour
       
         placeObject();
             
-      
-        
     }
     bool TryGetTouchPosition(out Vector2 touchPosition)
     {
@@ -47,58 +45,28 @@ public class PlaceOnPlane : MonoBehaviour
         touchPosition = default;
         return false;
     }
-    /*
-    private void UpdatePlacementPose(){
-        //var screenCenter = ARCamera.ViewportToScreenPoint(new Vector3(0.5f, 0.5f)); // the ARCamera give the center of the screen
-       
-
-        raycastManager.Raycast(touchPosition, hits, TrackableType.All);
-
-        placemenPoseIsValid = hits.Count >0;
-
-        if (placemenPoseIsValid){
-            placemenPose = hits[0].pose;// for some reason prevent the indicator to appear and spawn the body through the plane
-            var cameraForward = ARCamera.transform.forward;
-            var cameraBearing = new Vector3(cameraForward.x, 0, cameraForward.z).normalized;
-
-            placemenPose.rotation = Quaternion.LookRotation(cameraBearing);
-            // a Quaternion is an object that contain data about rotation
-            positionIndicator.SetActive(true);
-            positionIndicator.transform.SetPositionAndRotation(placemenPose.position,placemenPose.rotation);
-        }else{// if there is no plane
-            positionIndicator.SetActive(false);
-        }
-    
-    }
-*/
+  
     private void placeObject(){
 
-                if (!TryGetTouchPosition(out Vector2 touchPosition))
-            return;
+            if (!TryGetTouchPosition(out Vector2 touchPosition))
+            return; // si on a pas de toucher tactile on sort de la fonction
 
-        if (raycastManager.Raycast(touchPosition, hits, TrackableType.All))
+        if (raycastManager.Raycast(touchPosition, hits, TrackableType.All)) // hits is a List of light projectio 
         {
-            var cameraForward = ARCamera.transform.forward;
-            var cameraBearing = new Vector3(cameraForward.x, 0, cameraForward.z).normalized;
+            var cameraForward = ARCamera.transform.forward; // position of the device 
+            var cameraBearing = new Vector3(cameraForward.x, 0, cameraForward.z).normalized; // rotation of the device
 
-            
             // Raycast hits are sorted by distance, so the first one
             // will be the closest hit.
             var hitPose = hits[0].pose;
 
-            if(ObjectSpawned == null){// if our game doest set in AR 
+            if(ObjectSpawned == null){// if our model is not instancied
                     //we instatiate it ,
              ObjectSpawned = Instantiate(PrefabSelected,hitPose.position,Quaternion.LookRotation(cameraBearing));
             }else{ // we move object to another position selecter by user
-                //ObjectSpawned.transform.position = hitPose.position;
-                //ObjectSpawned.transform.rotation = Quaternion.LookRotation(cameraBearing);
+                //PrefabSelected.transform.position = hitPose.position;
+                //PrefabSelected.transform.rotation = Quaternion.LookRotation(cameraBearing);
             }}
-
-
-
-      
-        
-
     }
 
     public void LockPosition(){
@@ -123,6 +91,31 @@ public class PlaceOnPlane : MonoBehaviour
             }
             
     }
+
+    /*
+    private void UpdatePlacementPose(){
+        //var screenCenter = ARCamera.ViewportToScreenPoint(new Vector3(0.5f, 0.5f)); // the ARCamera give the center of the screen
+       
+
+        raycastManager.Raycast(touchPosition, hits, TrackableType.All);
+
+        placemenPoseIsValid = hits.Count >0;
+
+        if (placemenPoseIsValid){
+            placemenPose = hits[0].pose;// for some reason prevent the indicator to appear and spawn the body through the plane
+            var cameraForward = ARCamera.transform.forward;
+            var cameraBearing = new Vector3(cameraForward.x, 0, cameraForward.z).normalized;
+
+            placemenPose.rotation = Quaternion.LookRotation(cameraBearing);
+            // a Quaternion is an object that contain data about rotation
+            positionIndicator.SetActive(true);
+            positionIndicator.transform.SetPositionAndRotation(placemenPose.position,placemenPose.rotation);
+        }else{// if there is no plane
+            positionIndicator.SetActive(false);
+        }
+    
+    }
+*/
     
 
 }
